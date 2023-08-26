@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 👨‍💻 All of my projects are available at [https://imrahat.github.io/myportfolio/](https://imrahat.github.io/myportfolio/)
-
-- 💬 Ask me about **nothing**
+- 👨‍💻 All of my projects are available at 
+- 💬 Ask me about
 
 - 📫 How to reach me **rah60028@gmail.com**
 
